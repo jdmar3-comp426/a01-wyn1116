@@ -75,6 +75,11 @@ a:hover {
     font-family: Georgia, 'Times New Roman', Times, serif
 }
 
+.header-container p {
+    line-height: 150%;
+    text-align: center;
+}
+
 #greek-link, #roman-link, #norse-link {
     color: #545454;
     text-decoration: underline;
